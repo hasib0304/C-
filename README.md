@@ -1,6 +1,8 @@
 # Road to C++
 Learning C++ from zero
+
 #Projects
+
 ###ATM Machine
 A fully functional ATM simulator with deposit, withdraw, check balance and input validation
 
